@@ -33,7 +33,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn]()
+[![LinkedIn](www.linkedin.com/in/chethiya-wijesingha-9b6336386)
 [![Facebook]()
 [![LeetCode]()
 [![Portfolio]()
