@@ -21,10 +21,8 @@
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👨‍💻 Check out my projects at [My Portfolio](https://my-portfolio-iota-orcin-46.vercel.app/)
 - 📫 Reach me at **chethiyawijesingha17@gmail.com**
-- 💻 Visit my [My Portfolio](https://my-portfolio-iota-orcin-46.vercel.app/) for more details about me.
-- 💬 Ask me about **Java, Spring Boot, React, Python**
+- 💬 Ask me about **C, C++, HTML, PHP, SQL, Java, React, Python**
 - ⚡ Fun fact: *Martian developer at heart 👽 — Exploring galaxies of code 🚀*
 <!--End Intro-->
 
