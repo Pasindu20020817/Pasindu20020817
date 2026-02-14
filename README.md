@@ -190,13 +190,13 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NipunPrabushitha&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pasindu20020817&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
 </p>
 <p align="center">
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=NipunPrabushitha&theme=gotham&hide_border=false" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Pasindu20020817&theme=gotham&hide_border=false" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunprabushitha&layout=compact&theme=gotham" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu20020817&layout=compact&theme=gotham" />
 </p>
 
 ## 🏆 GitHub Trophies
