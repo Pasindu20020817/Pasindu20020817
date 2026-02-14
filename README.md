@@ -33,7 +33,11 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/chethiya-wijesingha-9b6336386/)
+<a href="https://www.linkedin.com/in/chethiya-wijesingha-9b6336386/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+       alt="LinkedIn" width="30" height="30" style="vertical-align:middle; margin-right:6px;">
+  <strong>Connect on LinkedIn</strong>
+</a>
 [![Facebook]()
 [![LeetCode]()
 [![Portfolio]()
