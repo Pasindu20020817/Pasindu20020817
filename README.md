@@ -28,15 +28,15 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NipunPrabushitha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="NipunPrabushitha" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Pasindu20020817&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Pasindu20020817" style="padding-right:20px;" />
 </p>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nipunprabushitha)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/nipunprabushitha)
-[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nipunprabushitha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-iota-orcin-46.vercel.app/)
+[![LinkedIn]()
+[![Facebook]()
+[![LeetCode]()
+[![Portfolio]()
 
 <h2 align="left">🔧 My Tech Stack</h2>
 
@@ -197,15 +197,15 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NipunPrabushitha&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Pasindu20020817&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NipunPrabushitha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Pasindu20020817&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NipunPrabushitha&icon=6&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Pasindu20020817&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
